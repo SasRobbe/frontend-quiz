@@ -1,3 +1,7 @@
+# Screenshot
+
+![frontend screenshot]([http://url/to/img.png](https://i.imgur.com/au01wm8.png))
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
