@@ -1,6 +1,6 @@
 # Screenshot
 
-![frontend screenshot]([http://url/to/img.png](https://i.imgur.com/au01wm8.png))
+![frontend screenshot](https://i.imgur.com/au01wm8.png)
 
 # Getting Started with Create React App
 
