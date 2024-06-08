@@ -20,7 +20,7 @@ const QuizAnswers = () => {
 
   const handleSubmit = async event => {
     event.preventDefault();
-    await axios.post(`https://quiz-service-carodaems.cloud.okteto.net/quiz_rounds/${roundId}/questions/`, {
+    await axios.post(`https://quiz-service.cloud.okteto.net/quiz_rounds/${roundId}/questions/`, {
       answer: selectedAnswer
     });
 
